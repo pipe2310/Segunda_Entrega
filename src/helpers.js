@@ -711,7 +711,7 @@ listaMatriculass= [];
 		listaMatriculas=listaMatriculass
 		console.log('despues de')
 		console.log(listaMatriculas)
-		guardarMat()
+		guardarMat();
 
 		}
 
