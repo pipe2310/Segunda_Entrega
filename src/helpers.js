@@ -486,7 +486,6 @@ listarMat()
 listar()
 i=1;
 let sw;
-	console.log(listaMatriculas);
 listaCursos.forEach(cur=>{
 sw=false;
 out=out+   `
