@@ -463,8 +463,8 @@ var out = "";
 //MyData.sort(dynamicSort("name"));
 	listaMatriculas.forEach(mat=>{
 		//id: curso.id;
-		console.log(mat.identificador);
-		console.log(mat.documento)
+		//console.log(mat.identificador);
+		//console.log(mat.documento)
 
     out = out +"<tr>"+ "<td>" + mat.identificador + "</td>"+'\n'+'<td> ' + mat.documento +"</td>"+"<tr>";/*+"<td>"+'<button type="button" name="'+mat.identificador+'">Eliminar </button>'+"</td>"*/
 
